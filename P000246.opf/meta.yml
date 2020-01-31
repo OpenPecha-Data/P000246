@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།
+  sku: VVI-017
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: The Words of the Peerless Lama:Notes on the Bodhisattvacharyavatara
+    bo: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན་བཞུགས་སོ།
+  collection:
+    en: Vajra Vidya Institute Library–  Book 17
+    bo: ''
+  author:
+    en: Tsanyak Sherab Tharchin
+    bo: ''
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: ''
+  sku: VVI-017
+  category:
+    en: Bodhicharyavatara
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-017.epub
+  description:
+    en: ''
+    bo: ''
