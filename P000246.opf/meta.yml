@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000246
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།
-  sku: VVI-017
   layers:
   - book_title
   - author
@@ -12,6 +13,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: VVI-017
 web_metadata:
   title:
     en: The Words of the Peerless Lama:Notes on the Bodhisattvacharyavatara
